@@ -71,7 +71,7 @@ button {
 
 button:hover {
   background-color: #fff1eb;
-  color: hsl(18, 100%, 65%);
+  color: hsl(18, 92%, 65%);
   transform: scale(1.1);
 }
 
